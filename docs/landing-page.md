@@ -8,12 +8,12 @@ description: Landing Home Page for OPS635
 
 # Welcome to OPS635 - Enterprise Network Management - Emerging Technology
 
-**Quick Links**
+### Quick Links
 
 | [Weekly Schedule](./weekly-schedule.md) | [Course Outline](https://scs.senecac.on.ca/course/ops635) | [Fedora Project](http://fedoraproject.org/) | [Fedora Documentation](http://docs.fedoraproject.org/) |
 | :--- | :--- | :--- | :--- |
 
-**Assignments**
+### Assignments
 
 | Assignment 1 | Assignment 2 | Assignment 3 | Assignment 4 |
 | :--- | :--- | :--- | :--- |
