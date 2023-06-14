@@ -39,7 +39,7 @@ All of the software used in this course is _open source_ software, so you are fr
 
 ## Weekly Schedule
 
-Weekly topic, lab, and assignment information is available on the OPS635 Weekly Schedule page (ADD LINK HERE TOO).
+Weekly topic, lab, and assignment information is available on the OPS635 [Weekly Schedule page](./weekly-schedule.md).
 
 ## Supplies Checklist
 
@@ -73,7 +73,7 @@ During the Winter 2023 semester, OPS635 is taught by:
 
 **Important Websites**
 
-  - School of Information Technology Administration and Security (includes class cancellation information and general bulletins)
+  - [School of Information Technology Administration and Security](https://itas.senecacollege.ca/?q=students/home) (includes class cancellation information and general bulletins)
 
 **Evaluation:**
 
