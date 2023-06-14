@@ -5,7 +5,7 @@ sidebar_position: 6
 description: Lab 5 For Students to Complete and Submit
 ---
 
-# OPS635 Docker Lab 5: Cluster Management Using Docker
+# Docker Lab 5: Cluster Management Using Docker
 
 ## Overview
 

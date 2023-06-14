@@ -5,7 +5,7 @@ sidebar_position: 2
 description: Gluster Installation Instructions
 ---
 
-# OPS635 installation glusterfs
+# Glusterfs Installation Instructions
 
 ## Centos 9
 

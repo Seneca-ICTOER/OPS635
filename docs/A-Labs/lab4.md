@@ -5,7 +5,7 @@ sidebar_position: 5
 description: Lab 4 For Students to Complete and Submit
 ---
 
-# OPS635 Lab 4: System Configuration Management using Ansible
+# Lab 4: System Configuration Management using Ansible
 
 ## Overview
 

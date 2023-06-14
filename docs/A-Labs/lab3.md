@@ -5,7 +5,7 @@ sidebar_position: 4
 description: Lab 3 For Students to Complete and Submit
 ---
 
-# OPS635 Lab 3: Distributed FileSystems with GlusterFS
+# Lab 3: Distributed FileSystems with GlusterFS
 
 ## Overview
 

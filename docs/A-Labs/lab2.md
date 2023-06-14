@@ -5,7 +5,7 @@ sidebar_position: 3
 description: Lab 2 For Students to Complete and Submit
 ---
 
-# OPS635 Lab 2: Nagios Installation and Configuration
+# Lab 2: Nagios Installation and Configuration
 
 ## Overview
 

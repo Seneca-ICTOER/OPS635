@@ -5,7 +5,7 @@ sidebar_position: 1
 description: Prelab for Students to Learn Host Installation and Virtual Network Setup
 ---
 
-# OPS635 Pre-Lab: Host installation and virtual network setup
+# Pre-Lab 0: Host installation and virtual network setup
 
 ## Overview
 

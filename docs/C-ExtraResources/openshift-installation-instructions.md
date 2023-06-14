@@ -5,7 +5,7 @@ sidebar_position: 3
 description: Openshift Installation Instructions
 ---
 
-# Openshift
+# Openshift Installation Instruction
 
 ## Overview
 

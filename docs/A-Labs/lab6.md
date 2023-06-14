@@ -5,7 +5,7 @@ sidebar_position: 7
 description: Lab 6 For Students to Complete and Submit
 ---
 
-# OPS635 OpenShift Lab 6: Container Management Using OpenShift
+# OpenShift Lab 6: Container Management Using OpenShift
 
 ## Overview
 

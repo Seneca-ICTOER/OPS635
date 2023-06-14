@@ -5,7 +5,7 @@ sidebar_position: 2
 description: Lab 1 For Students to Complete and Submit
 ---
 
-# OPS635 Lab 1: System Configuration Management using Puppet
+# Lab 1: System Configuration Management using Puppet
 
 ## Overview
 

@@ -5,7 +5,7 @@ sidebar_position: 2
 description: Weekly Schedule for OPS635
 ---
 
-# OPS635 Weekly Schedule
+# Weekly Schedule
 
 ## Week 1 - May 8th => May 12th
 
