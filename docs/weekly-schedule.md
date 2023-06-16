@@ -28,7 +28,7 @@ description: Weekly Schedule for OPS635
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
 | Configuration Management using Puppet | | [Lab 1](/A-Labs/lab1.md) |
-| | | Assignment 1 (ADD LINK) |
+| | | [Assignment 1](/B-Assignments/assignment1.md) |
 
 
 ## Week 4 - May 22nd => May 26th
@@ -51,7 +51,7 @@ description: Weekly Schedule for OPS635
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
 | Network Monitoring Using Nagios | | [Lab 2](/A-Labs/lab2.md) |
-| | | Assignment 2 (ADD LINK) |
+| | | [Assignment 2](/B-Assignments/assignment2.md) |
 
 
 ## Week 7 - June 19th => June 23th
@@ -84,7 +84,7 @@ description: Weekly Schedule for OPS635
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
 | Configuration Management using Ansible |  | [Lab 4](/A-Labs/lab4.md) |
-| | | Assignment 3 (ADD LINK) |
+| | | [Assignment 3](/B-Assignments/assignment3.md) |
 
 
 ## Week 10 - July 17th => July 21st
@@ -100,7 +100,7 @@ description: Weekly Schedule for OPS635
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
 | - Docker Stacks and Swarms |  | [Lab 5](/A-Labs/lab5.md) |
-| | | Assignment 4 (ADD LINK) |
+| | | [Assignment 4](/B-Assignments/assignment4.md) |
 
 
 ## Week 12 - July 31st => August 4th
