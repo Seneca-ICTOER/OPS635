@@ -29,7 +29,7 @@ Modify your existing DNS services to identify each of your Docker machines as ma
 
 ## Postfix Container
 
-Your three Docker machines will act as a single swarm, each running a container configured to perform SPF checks on incoming mail. They will also use Postfix’s built in restrictions to filter out malformed mail, or mail which does not properly follow SMTP protocols (e.g. not starting a connection with HELO). Any mail that passes these checks will be relayed on to the actual mail server running on your host (which must be configured to accept mail addressed to users in your domain).
+Your three Docker machines will act as a single swarm, each running a container configured to perform SPF checks on incoming mail. They will also use Postfix’s built in restrictions to filter out malformed mail, or mail which does not properly follow SMTP protocols (e.g. not starting a connection with HELO). Any mail that passes these checks will be **relayed** on to the actual mail server running on your host (which must be configured to accept mail addressed to users in your domain).
 
 **Note**: Do NOT run use your host as the Docker Swarm manager, as that would interfere with its own Postfix service.
 
