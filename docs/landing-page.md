@@ -15,7 +15,7 @@ description: Landing Home Page for OPS635
 
 ### Assignments
 
-| Assignment 1 | Assignment 2 | Assignment 3 | Assignment 4 |
+| [Assignment 1](/B-Assignments/assignment1.md) | [Assignment 2](/B-Assignments/assignment2.md) | [Assignment 3](/B-Assignments/assignment3.md) | [Assignment 4](/B-Assignments/assignment4.md) |
 | :--- | :--- | :--- | :--- |
 
 
