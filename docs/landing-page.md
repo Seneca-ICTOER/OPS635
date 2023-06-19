@@ -77,12 +77,6 @@ During the Winter 2023 semester, OPS635 is taught by:
 
 **Evaluation:**
 
-  - Quizzes (minimum of 5) - 10%
-  - Labs (minimum of 5) - 10%
-  - Mid-term test - 20%
-  - Assignments (minimum of 2) - 35%
-  - Final Assessment - 25%
-
 | **Evaluation** | **Marks** |
 | :--- | :---: |
 | Quizzes (minimum of 5) | 10% |
