@@ -20,7 +20,7 @@ description: Weekly Schedule for OPS635
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
-| Configuration Management using Puppet | | |
+| Configuration Management using Puppet | [Puppet - Manifests and Modules](https://www.digitalocean.com/community/tutorials/getting-started-with-puppet-code-manifests-and-modules) | |
 
 
 ## Week 3 - May 29th => June 2nd
@@ -107,7 +107,7 @@ description: Weekly Schedule for OPS635
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
-| OpenShift | - [OpenShift Installation Guide](https://access.redhat.com/documentation/en-us/openshift_container_platform/4.8/html/installing/index#getting-started-administrators) | [Lab 6](/A-Labs/lab6.md) |
+| OpenShift | [OpenShift Installation Guide](https://access.redhat.com/documentation/en-us/openshift_container_platform/4.8/html/installing/index#getting-started-administrators) | [Lab 6](/A-Labs/lab6.md) |
 | | [Installation Instructions](/C-ExtraResources/openshift-installation-instructions.md) | |
 | | OpenShift Online Learning Environment: | |
 | | - [Getting Started with OpenShift for Developers](https://learn.openshift.com/introduction/getting-started/) | |
