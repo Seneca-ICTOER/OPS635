@@ -6,7 +6,9 @@ slug: /
 description: Landing Home Page for OPS635
 ---
 
-# Welcome to OPS635 - Enterprise Network Management - Emerging Technology
+# Welcome to OPS635 
+
+## Enterprise Network Management - Emerging Technology
 
 ### Quick Links
 
