@@ -15,8 +15,8 @@ In an enterprise environment, the existence of different hardware and Operating 
 
   - Clone your Centos blank Vm to create three new Vms (puppet-master, puppet-client1, and puppet-client2).
 
-       - Set the hostnames of each, provide them with static addresses, and add them to your DNS service.\
-       - Use current installation instructions (<- ADD LINK HERE) to configure your puppet-master as the puppet master, and configure puppet-client1 and puppet-client2 as puppet agents.\
+       - Set the hostnames of each, provide them with static addresses, and add them to your DNS service.
+       - Use [current installation instructions](/C-ExtraResources/puppet-install.md) to configure your puppet-master as the puppet master, and configure puppet-client1 and puppet-client2 as puppet agents.
        - Write a puppet manifest on puppet-master to make a simple change (e.g. installing bind-utils) on both clients. Ensure it works before continuing.
        - Manually undo the simple change (e.g. remove the package), and ensure that puppet re-applies the change.
 

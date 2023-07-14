@@ -25,7 +25,7 @@ Deploying services as containers in a swarm can make it easy to rapidly deploy i
   - Install Docker on one of your virtual machines.
 
        - **Note**: Do not use Docker on your host, as it may interfere with other services covered in this course.
-       - **Note2**: Do not install Docker from the default CentOS repository! Refer to the wiki for the current correct method (<- ADD LINK).
+       - **Note2**: Do not install Docker from the default CentOS repository! Refer to the wiki for the [current correct method](/C-ExtraResources/docker-installation-instructions.md).
 
   - Run the 'hello-world' image to ensure your installation is working.
  

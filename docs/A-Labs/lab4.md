@@ -17,7 +17,7 @@ There are commercial and open source configuration management systems which awar
 
   - Install Ansible on one of your VMs (we will refer to that as the server).
 
-       - Current installation instructions can be found here (<- ADD LINK).
+       - Current installation instructions can be found [here](/C-ExtraResources/ansible-install.md) .
 
   - If you have not already done so, create an SSH key-pair for a **non-root user on your server** and transfer the public portion of it to another VM (we will refer to it as the client). Ensure that you can use it to ssh to a non-root account on the client by entering a passphrase.
   - Modify the inventory file on your server to include the fully qualified domain names of client VM.
@@ -55,7 +55,7 @@ There are commercial and open source configuration management systems which awar
 
 ## Submission
 
-Upload your playbook and template file to blaockboard.
+Upload your playbook and template file to blackboard.
 
 ## Completing the Lab
 

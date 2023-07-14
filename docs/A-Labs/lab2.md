@@ -16,13 +16,13 @@ In an enterprise environment, a production server must be staged before deployme
 Clone your existing VM. Call the new VM nagios.<yourdomain\>.ops, and provide it a static address of your choice.
 
   - Add the necessary records for this machine to your DNS server.
-  - Install and configure Nagios (<- ADD LINK) on this machine.
+  - [Install and configure Nagios](/C-ExtraResources/nagios-install.md) on this machine.
   - Configure your Nagios to also use any definitions you include in a file called lab.cfg.
   - Using the lab.cfg file, create definitions to get your nagios installation to monitor the following hosts/services:
 
-       - Create a host definition to make the nagios machine monitor itself (using a non-loopback address). It should use the check\_ping command every ten minutes to make sure it is active.
-       - Create a service definition to make the nagios machine monitor whether it can connect to it's own ssh service (using the non-loopback address). It should use the pre-written check_ssh command every 30 minutes, re-checking every 10 minutes if the initial check fails.
-       - Create a timeperiod definition, and set it to only include the days and times you are in OPS635. Modify the definitions in lab.cfg to only run during this time.
+       + Create a host definition to make the nagios machine monitor itself (using a non-loopback address). It should use the check\_ping command every ten minutes to make sure it is active.
+       + Create a service definition to make the nagios machine monitor whether it can connect to it's own ssh service (using the non-loopback address). It should use the pre-written check\_ssh command every 30 minutes, re-checking every 10 minutes if the initial check fails.
+       + Create a timeperiod definition, and set it to only include the days and times you are in OPS635. Modify the definitions in lab.cfg to only run during this time.
 
   - Make sure the webservice running on your nagios machine is accessible from your host machine.
   - Access the nagios web console and confirm that these checks are working before continuing.
@@ -41,8 +41,8 @@ Clone your existing VM. Call the new VM nagios.<yourdomain\>.ops, and provide it
 
 ## Investigation 3: Nagios Custom Commands
 
-  - Create a script plugin called check_sshd that will use systemctl to check the state of your sshd service. If the service is running, return 0. If it is inactive, return 1. If it is failed, return 2. For any other result return 3.
-  - Create a command definition called check_sshd_status that will call the check_sshd plugin.
+  - Create a script plugin called check\_sshd that will use systemctl to check the state of your sshd service. If the service is running, return 0. If it is inactive, return 1. If it is failed, return 2. For any other result return 3.
+  - Create a command definition called check\_sshd\_status that will call the check\_sshd plugin.
   - Create a new service definition that will use the new command to check the status of your sshd service every two minutes, going into a hard-fail state on the third failed check.
   - Create an event handler script to restart sshd if it is inactive. Use the nagios macros to make sure it only tries to restart the service on the second failed check (that is, before it goes into a hard-fail state).
   - Add notifications similar to those for your other checks (you should be notified if the service goes into a hard-fail state, and the senior admin should be notified if you don't fix it).
