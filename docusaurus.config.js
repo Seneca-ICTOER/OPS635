@@ -5,7 +5,7 @@ const katex = require('rehype-katex');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'OPS635 Course Title',
+  title: 'OPS635 - Enterprise Network Management - Emerging Technology',
   tagline: 'OPS635 Tag/Keyword',
   url: 'https://Seneca-ICTOER.github.io/',
   baseUrl: '/OPS635/',
@@ -17,7 +17,7 @@ module.exports = {
   projectName: 'OPS635',
   themeConfig: {
     navbar: {
-      title: 'OPS635 Course Title',
+      title: 'OPS635 - Enterprise Network Management - Emerging Technology',
       logo: {
         alt: 'Seneca College',
         src: 'img/logo.svg',
@@ -31,7 +31,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'OPS635 Course Title',
+          title: 'OPS635 - Enterprise Network Management - Emerging Technology',
           items: [
             {
               label: 'Contents',
