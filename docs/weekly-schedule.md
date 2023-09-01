@@ -7,7 +7,7 @@ description: Weekly Schedule for OPS635
 
 # Weekly Schedule
 
-## Week 1 - May 8th => May 12th
+## Week 1
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
@@ -16,37 +16,36 @@ description: Weekly Schedule for OPS635
 | Assignments, Lab due dates | | |
 
 
-## Week 2 - May 15th => May 19th
+## Week 2
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
 | Configuration Management using Puppet | [Puppet - Manifests and Modules](https://www.digitalocean.com/community/tutorials/getting-started-with-puppet-code-manifests-and-modules) | |
 
 
-## Week 3 - May 29th => June 2nd
+## Week 3
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
 | Configuration Management using Puppet | | [Lab 1](/A-Labs/lab1.md) |
-| | | [Assignment 1](/B-Assignments/assignment1.md) |
+| | | Assignment 1 |
 
 
-## Week 4 - May 22nd => May 26th
+## Week 4
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
 | Network Monitoring Using Nagios | **Nagios: Building Enterprise-Grade Monitoring Infrastructures for Systems and Networks Textbook Chapters 1-3:** [Event Handers](https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/3/en/eventhandlers.html) | |
 
 
-## Week 5 - June 5th => June 9th
+## Week 5
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
 | Network Monitoring Using Nagios | **Nagios: Building Enterprise-Grade Monitoring Infrastructures for Systems and Networks Textbook Chapters 4,7:** [Event Handers with NRPE](https://kakoma.ug/code/2014/12/nagios-event-handlers-nrpe) | |
 
 
-
-## Week 6 - June 12th => June 16th
+## Week 6
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
@@ -54,7 +53,7 @@ description: Weekly Schedule for OPS635
 | | | [Assignment 2](/B-Assignments/assignment2.md) |
 
 
-## Week 7 - June 19th => June 23th
+## Week 7
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
@@ -62,14 +61,14 @@ description: Weekly Schedule for OPS635
 | Distributed Filesystems: GlusterFS | [Gluster installation instructions](/C-ExtraResources/gluster-installation-instructions.md) | |
 
 
-## Study Week - June 26th => June 30th
+## Study Week
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
 | Study/Reading Week | | |
 
 
-## Week 8 - July 3rd => July 7th
+## Week 8
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
@@ -79,7 +78,7 @@ description: Weekly Schedule for OPS635
 | | [Introduction to Playbooks](http://docs.ansible.com/ansible/latest/user_guide/playbooks.html) | |
 
 
-## Week 9 - July 10th => July 14th
+## Week 9
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
@@ -87,7 +86,7 @@ description: Weekly Schedule for OPS635
 | | | [Assignment 3](/B-Assignments/assignment3.md) |
 
 
-## Week 10 - July 17th => July 21st
+## Week 10
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
@@ -95,7 +94,7 @@ description: Weekly Schedule for OPS635
 | | [Docker and SELinux](https://www.youtube.com/watch?v=zWGFqMuEHdw&list=PLcvmpY7C1j8k_FDTtNHvxGJixhPOSzX4h) | |
 
 
-## Week 11 - July 24th => July 28th
+## Week 11
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
@@ -103,7 +102,7 @@ description: Weekly Schedule for OPS635
 | | | [Assignment 4](/B-Assignments/assignment4.md) |
 
 
-## Week 12 - July 31st => August 4th
+## Week 12
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
@@ -117,7 +116,7 @@ description: Weekly Schedule for OPS635
 | | - [Connecting to a Database Using Port-Forwarding](https://learn.openshift.com/introduction/port-forwarding/) | |
 
 
-## Week 13 - August 7th => August 11th
+## Week 13
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |
@@ -125,7 +124,7 @@ description: Weekly Schedule for OPS635
 | Course Review | | |
 
 
-## Week 14 - August 14th => August 18th
+## Week 14
 
 | **Topics** | **Reading/Reference** | **Tasks/Labs** |
 | --- | --- | --- |

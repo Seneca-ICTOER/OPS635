@@ -7,6 +7,8 @@ description: Assignment 1
 
 # Assignment 1
 
+## CAUTION: This assignment is an archived version and should not be used. Consult your professor.
+
 **Weight**: 17.5% of the overall grade
 
 **Due Date**: Week 7
